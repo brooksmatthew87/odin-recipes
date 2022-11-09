@@ -9,3 +9,5 @@ I had an issue with images not showing on Github pages, and had to learn to corr
 I had issues with image sizing being inconsistent and learned to utilize auto height while using a specified width to get them to properly display.
 
 Overall, I feel that I made commits somewhat competently, and ended up using more commits than I expected at first. 
+
+I have added CSS to my HTML elements, although it is very basic colors and fonts. I purposely played around with font sizes, styles, weight, colors, and background colors that don't necessarily work well together or make for readable content. However, the basics make sense to me so far. 
